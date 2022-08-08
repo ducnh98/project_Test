@@ -1,2 +1,5 @@
 Anh Duc test day File len gitgub
 https://github.com/John-Blair/custom-members
+
+Em gửi API Key để call: 
+curl --location --request POST https://api.fpt.ai/reader/predict/62eb804de7a1d9caf29b3d0c?direct=true --header "api-key: LFVMXmY4zOqmBq4vyrx46Idy9vKB72Th" --form "image=@C:/Users/username/demo/image.jpg"
